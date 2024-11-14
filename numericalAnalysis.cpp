@@ -1,5 +1,4 @@
 // NumericalAnalysis.cpp
-// To compile: g++ main.cpp MathApproximator.cpp -o math_approx -std=c++11
 
 #include <iostream>
 #include <string>
